@@ -1,0 +1,22 @@
+Project 1
+
+  Answers
+ 1.  "mv" command has to functions:
+                             1, used to move a file from source to destination
+                             2, if the destination file doesn't exist the file name will be renamed
+                             
+ 2. "touch" command used to create a new file 
+ 3. "cd" it changes the the working directory
+ 4. "ls" command has options:
+                        -a => do not ignore entries starting with .
+                        -A => do not list implied . and ..  
+                        -b => print C-style escapes for nongraphic characters
+                        -r => reverse the order while sorting                         
+    
+ 5. "rm" used to delete a file or directory
+ 6.  Absolute path is: listing some file location from the root to the destination.
+     Relative path: is listing some file location from the current working directory.   
+
+
+    
+  
